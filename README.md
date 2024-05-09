@@ -2,7 +2,7 @@
 - 얼굴 인식할 수 있는 여러 모델이 계속 발전하고 있는 중
 - 성능이 좋은 모델을 선택하는 것이 어려움.
 - 인터넷의 여러 글을 참고하여 RetinaFace_Resnet과 YOLO V8을 선택하였음.
-- 실행 속도 RetinaFace_Renet : 3.5시간 / 2500장, YOLO V8 : 40분 / 2500장 
+- 실행 속도(범용 노트북) RetinaFace_Renet : 3.5시간 / 2500장, YOLO V8 : 40분 / 2500장 
 - https://learnopencv.com/what-is-face-detection-the-ultimate-guide/#RetinaFace-(May-2019)
 - https://www.youtube.com/watch?v=_eSArKZBWmE
 - https://github.com/noorkhokhar99/face-detection-yolov8
