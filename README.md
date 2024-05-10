@@ -1,7 +1,7 @@
 # Face-Detection
 - 목적 : 버스의 CCTV 영상 안의 얼굴을 인식하여 비식별화를 진행
 - 얼굴을 인식할 수 있는 여러 모델이 계속 발전하고 있는 중
-- 성능이 좋으면서(SATA) 목적에 맞는 모델을 선택하는 것이 어려웠음.
+- 성능이 좋으면서(SOTA) 목적에 맞는 모델을 선택하는 것이 어려웠음.
 - 인터넷의 여러 글을 참고하여 RetinaFace_Resnet과 YOLO V8을 선택하였음.
 - 실행 속도(범용 노트북) RetinaFace_Renet : 3.5시간 / 2500장, YOLO V8 : 40분 / 2500장 
 - https://learnopencv.com/what-is-face-detection-the-ultimate-guide/#RetinaFace-(May-2019)
