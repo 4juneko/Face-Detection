@@ -8,7 +8,7 @@
 - https://www.youtube.com/watch?v=_eSArKZBWmE
 - https://github.com/noorkhokhar99/face-detection-yolov8
 - 두 모델을 순차적으로 실행하여 결과를 얻었는데 2500장 이미지 중 10장 내외로 인식 못하는 얼굴이 있었음.
-  - 인식률:99.6%
+  - 인식률 : 99.6%
   - 조명이 비춰 얼굴에 점박이 패턴이 있는 것은 인식이 잘 안됨.
 - 더 나은 모델을 찾아야 함.
 - YOLO V8은 여러 파라미터 조절로 인식율을 조절할 수 있음.
